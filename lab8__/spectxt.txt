@@ -1,0 +1,35 @@
+def wordToQ(mol_queue):
+    Läser in en molekyls bokstäver till en kö
+
+
+def molCheck(mol_queue, mol_length):
+    Innehåller if-satser som beroende av peek-värdet använder olika funktioner
+    som kollar om current_value är korrekt
+
+
+
+
+
+def capLetter(current_value):
+    om peek = stor bokstav -> current = (whatever)
+
+def lowLetter(current_value):
+    om peek = liten bokstav -> current = (stor bokstav)
+
+def numbersX(current_value):
+    om peek = 1 - 9 -> current = (whatever, ej 0)
+
+def isZero(current_value):
+    om peek = 0 -> current = 0 - 9
+
+def isNone(current_value):
+    om peek = None -> current = (whatever)
+
+
+
+
+def getValuePair(self):
+    Tar activenode och activenode.next och skickar tillbaka dem till main
+
+def peek(self):
+    Returnerar nästkommande värde i kön utan att plocka bort något (activenode.next.value)

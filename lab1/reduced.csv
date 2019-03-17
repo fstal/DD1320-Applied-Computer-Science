@@ -1,0 +1,4 @@
+Per,Nat,Pokemon,HP,Atk,Def,SpA,SpD,Spe,Total,Type I,Type II,Tier,Ability I,Ability II,Hidden Ability,Mass,LK/GK,EV Worth,EXPV,Color,Hatch,Gender,Egg Group I,Egg Group II,Catch,EXP,Evolve,Per,Nat,Joh,Hoe,Sin,Un,Pokemon
+1,1,Bulbasaur,45,49,49,65,65,45,318,Grass,Poison,NU,Overgrow,,Chlorophyll,6.9 kG,20,1 SpA,64,Green,5120,M (87.5%),Monster,Grass,45,1059860,,1,1,226,,,,Bulbasaur
+2,2,Ivysaur,60,62,63,80,80,60,405,Grass,Poison,NU,Overgrow,,Chlorophyll,13.0 kG,40,1 SpA/1 SpD,141,Green,,M (87.5%),Monster,Grass,45,1059860,Lv. 16,2,2,227,,,,Ivysaur
+3,3,Venusaur,80,82,83,100,100,80,525,Grass,Poison,OU,Overgrow,,Chlorophyll,100.0 kG,100,2 SpA/1 SpD,208,Green,,M (87.5%),Monster,Grass,45,1059860,Lv. 32,3,3,228,,,,Venusaur
