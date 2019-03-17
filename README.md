@@ -1,4 +1,4 @@
-## DD1320-Applied-Computer-Science
+### DD1320-Applied-Computer-Science
 Collections of labs from course in Applied Computer Science
 
 The tasks of the course Applied Computer Science 2017 
